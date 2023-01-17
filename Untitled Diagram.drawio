@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-17T17:58:34.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="tpVgqbA2NOSoLcMZUtyv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-17T18:04:02.300Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.6.2" etag="uQghSFtb2ULYdK4G-4D7" type="github">
   <diagram id="CCFhQFNFW9KR4f1m8xp7" name="Page-1">
-    <mxGraphModel dx="1996" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4392" dy="3165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -446,13 +446,58 @@
           <mxGeometry x="1039.05" y="-240" width="260" height="130" as="geometry" />
         </mxCell>
         <mxCell id="lMbcXObJ904L43rAlSVf-189" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.ingame.de/bilder/2022/01/13/91234155/27866983-tiktok-soziales-netzwerk-tanzen-musikvideos-bytedance-peking-Ie9.jpg;" vertex="1" parent="1">
-          <mxGeometry x="1775.6000000000001" y="-220" width="161.51" height="121.13" as="geometry" />
+          <mxGeometry x="1775.6000000000001" y="-231.13" width="161.51" height="121.13" as="geometry" />
         </mxCell>
-        <mxCell id="lMbcXObJ904L43rAlSVf-190" value="C/S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="1149" y="-285" width="40" height="30" as="geometry" />
+        <mxCell id="lMbcXObJ904L43rAlSVf-190" value="C/S: Taobao" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1124.05" y="-270" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lMbcXObJ904L43rAlSVf-191" value="B/S" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="1842.3" y="-260" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-195" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="-180" as="sourcePoint" />
+            <mxPoint x="260" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="-20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-196" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1580" y="-400" as="sourcePoint" />
+            <mxPoint x="1810" y="-290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-197" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1510" y="-400" as="sourcePoint" />
+            <mxPoint x="1300" y="-260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-198" value="PM" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1521.81" y="-430" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-204" value="客户" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1818.9099999999999" y="-444" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-205" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1810" y="-430" as="sourcePoint" />
+            <mxPoint x="1582" y="-430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-206" value="Operations" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="-460" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-208" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1870" y="-280" as="sourcePoint" />
+            <mxPoint x="1850" y="-410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lMbcXObJ904L43rAlSVf-211" value="Market&lt;br&gt;Sale" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1875.85" y="-380" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
