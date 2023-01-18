@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T03:44:56.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ogqMCx3Pwpn_m5hWs1QO" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:46:05.213Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="NsmDGFXg4dkHHrs68lAE" version="20.8.5" type="github">
   <diagram id="CCFhQFNFW9KR4f1m8xp7" name="Page-1">
-    <mxGraphModel dx="1475" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1843" dy="2099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,9 +12,6 @@
         </mxCell>
         <mxCell id="D3bmGyGS_kYTEIKmwqoR-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1285" width="520" height="115" as="geometry" />
-        </mxCell>
-        <mxCell id="lMbcXObJ904L43rAlSVf-187" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="1065" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="lMbcXObJ904L43rAlSVf-176" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="1990" y="620" width="560" height="110" as="geometry" />
@@ -371,7 +368,7 @@
           <mxGeometry x="1794.3799999999999" y="960" width="71.24" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lMbcXObJ904L43rAlSVf-159" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://media.geeksforgeeks.org/wp-content/uploads/s2-1.jpg;" parent="1" vertex="1">
-          <mxGeometry x="1370.95" y="1065" width="178.47" height="98.5" as="geometry" />
+          <mxGeometry x="1476" y="1065" width="178.47" height="98.5" as="geometry" />
         </mxCell>
         <mxCell id="lMbcXObJ904L43rAlSVf-160" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -435,21 +432,6 @@
             <mxPoint x="370" y="-70" as="sourcePoint" />
             <mxPoint x="2750" y="-60" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="lMbcXObJ904L43rAlSVf-183" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
-          <mxGeometry x="1592.2400000000002" y="1089.75" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="lMbcXObJ904L43rAlSVf-184" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
-          <mxGeometry x="1842.94" y="1094.95" width="45.6" height="61.800000000000004" as="geometry" />
-        </mxCell>
-        <mxCell id="lMbcXObJ904L43rAlSVf-185" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1664.1399999999999" y="1094.95" as="sourcePoint" />
-            <mxPoint x="1824.1399999999999" y="1094.95" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lMbcXObJ904L43rAlSVf-186" value="TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="1707.94" y="1070" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lMbcXObJ904L43rAlSVf-188" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.arstechnica.net/wp-content/uploads/2017/02/chrome-logo-800x400.png;" parent="1" vertex="1">
           <mxGeometry x="1130" y="-240" width="260" height="130" as="geometry" />
