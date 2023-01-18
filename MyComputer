@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T03:42:46.236Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="lg8ldAHIXgYGSFzFI9ld" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:44:34.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GJRjQ9MjO_SHo6Qs_kzg" version="20.8.5" type="github">
   <diagram id="CCFhQFNFW9KR4f1m8xp7" name="Page-1">
-    <mxGraphModel dx="2765" dy="2564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1475" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -567,6 +567,15 @@
         </mxCell>
         <mxCell id="D3bmGyGS_kYTEIKmwqoR-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="2860" y="-40" width="20" height="1330" as="geometry" />
+        </mxCell>
+        <mxCell id="D3bmGyGS_kYTEIKmwqoR-19" value="学术界&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2980" y="116" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D3bmGyGS_kYTEIKmwqoR-20" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.usenix.org/sites/default/files/usenix_logo_300x150_neat_2.png;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="170" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D3bmGyGS_kYTEIKmwqoR-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pbs.twimg.com/media/FmId73RXEAcHT50.png;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="280" width="133.33" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
