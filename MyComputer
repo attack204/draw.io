@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-18T03:44:34.075Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="GJRjQ9MjO_SHo6Qs_kzg" version="20.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-18T03:44:56.029Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ogqMCx3Pwpn_m5hWs1QO" version="20.8.5" type="github">
   <diagram id="CCFhQFNFW9KR4f1m8xp7" name="Page-1">
     <mxGraphModel dx="1475" dy="1913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -575,7 +575,10 @@
           <mxGeometry x="2940" y="170" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="D3bmGyGS_kYTEIKmwqoR-21" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pbs.twimg.com/media/FmId73RXEAcHT50.png;" vertex="1" parent="1">
-          <mxGeometry x="2940" y="280" width="133.33" height="70" as="geometry" />
+          <mxGeometry x="2940" y="262.61" width="133.33" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="D3bmGyGS_kYTEIKmwqoR-22" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.usenix.org/sites/default/files/osdi22_logo_wordmark_500.png;" vertex="1" parent="1">
+          <mxGeometry x="2940" y="358.61" width="130" height="68.64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
